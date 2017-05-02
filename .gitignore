@@ -45,3 +45,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+druidia.net.war/target/
+druidia.net.ear/target/
+druidia.net.ejb/target/
+druidia.net.war/.settings/
+druidia.net.ear/.settings/
+druidia.net.ejb/.settings/
+druidia.net.war/.project/
+druidia.net.ear/.project/
+druidia.net.ejb/.project/
+.settings/
